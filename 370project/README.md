@@ -42,4 +42,3 @@ ID: User's Email Address
 Pass: 1234 (By Default, User can change if they wish)
 
 
-Ignore the noob level coding. ^_^
